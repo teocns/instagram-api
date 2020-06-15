@@ -1,7 +1,9 @@
 ﻿# instagram-api
 
-Reverse Engineer of private API to Scrape instagram stories from an user and checks if user has been mentioned.
+Reverse Engineer of private API to Scrape Instagram Stories from an user and gets all mentioned users.
 
-Proxies are supported, aswell as multiple scraper accounts.
+Prepare scrapers
 
-If you have basic understanding of PHP you'll definitely know how to set this up: I have only used it for personal CPA projects so I won't release a ready-to-integrate version.
+To use the script you need scrapers. Export the scrapers from Jarvee and put them in the folder "scrapers"
+
+
